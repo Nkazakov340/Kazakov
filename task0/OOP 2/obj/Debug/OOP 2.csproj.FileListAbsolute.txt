@@ -1,0 +1,7 @@
+C:\Users\Админ\source\repos\OOP 2\OOP 2\bin\Debug\OOP 2.exe.config
+C:\Users\Админ\source\repos\OOP 2\OOP 2\bin\Debug\OOP 2.exe
+C:\Users\Админ\source\repos\OOP 2\OOP 2\bin\Debug\OOP 2.pdb
+C:\Users\Админ\source\repos\OOP 2\OOP 2\obj\Debug\OOP 2.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\OOP 2\OOP 2\obj\Debug\OOP 2.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\OOP 2\OOP 2\obj\Debug\OOP 2.exe
+C:\Users\Админ\source\repos\OOP 2\OOP 2\obj\Debug\OOP 2.pdb
